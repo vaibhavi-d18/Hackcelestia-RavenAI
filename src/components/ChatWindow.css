@@ -1,0 +1,15 @@
+/* Chat window-specific styles */
+.chat-window {
+  margin-top: 20px;
+}
+
+.message {
+  margin-bottom: 15px;
+}
+
+pre {
+  background-color: #f4f4f4;
+  padding: 10px;
+  border-radius: 4px;
+  overflow-x: auto;
+}
