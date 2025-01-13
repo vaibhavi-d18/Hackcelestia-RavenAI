@@ -7,11 +7,13 @@
   position: fixed;
 }
 
-.sidebar ul {
-  list-style-type: none;
-  padding: 0;
+.sidebar{
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  flex-direction: column;
+  
 }
-
-.sidebar li {
-  margin-bottom: 10px;
+.createSession{
+  
 }
